@@ -8,4 +8,7 @@ class Owner
     @species = "human"
     @@all << self
   end 
+  
+  
+  
   end
